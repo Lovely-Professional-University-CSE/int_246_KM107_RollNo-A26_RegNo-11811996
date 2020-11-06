@@ -1,0 +1,19 @@
+Steps to use the User Interface - 
+
+FOR TWEETS - 
+
+a)If you want to analyse on a document which contains the tweets, then save the file
+save the file as file.txt in the same folder in which the program is stored.
+
+b)Click on the Analysis on Tweets in the buttons panel
+
+c)The result will be displayed in the reuslt panel.
+
+FOR SENTENCES -
+
+a)Type the sentence in the Specific Sentence Label.
+
+b)Click on the button Analysis on a specific sentence.
+
+c)The result will be displayed in the result panel as Positive Negative or Neutral. 
+ 
