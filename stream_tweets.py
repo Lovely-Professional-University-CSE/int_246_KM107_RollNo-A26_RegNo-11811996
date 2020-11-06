@@ -17,4 +17,4 @@ if __name__ == "__main__":
     auth.set_access_token(credential.ACCESS_TOKEN, credential.ACCESS_TOKEN_SECRET)
     
     stream = Stream(auth, listen)
-    stream.filter(track = [""])   #about
+    stream.filter(track = [""])   # the keyword here
